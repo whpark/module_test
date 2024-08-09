@@ -1,6 +1,6 @@
 ## a simple c++20 module test
 
-Compiler - MSVC 2022
+- Compiler - MSVC 2022
 
 - folders
   - src/m1 : module library (static library)
